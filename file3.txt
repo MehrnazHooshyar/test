@@ -1,1 +1,2 @@
 "Changed file 2 - master"
+"Changed file 3 - master"
