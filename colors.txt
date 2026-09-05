@@ -1,1 +1,2 @@
 "Hello World on master changed 3"
+red green blue - > Changed on bugfix2
